@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Web on FALLfield blog</title>
+    <link>https://fallfield.github.io/tags/web/</link>
+    <description>Recent content in Web on FALLfield blog</description>
+    <image>
+      <title>FALLfield blog</title>
+      <url>https://fallfield.github.io/assets/FallField.webp</url>
+      <link>https://fallfield.github.io/assets/FallField.webp</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fallfield.github.io/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This Site</title>
+      <link>https://fallfield.github.io/projects/my-first-projects/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/projects/my-first-projects/</guid>
+      <description>The personal website you&amp;#39;re looking at — built with Hugo and PaperMod theme, hosted on GitHub Pages.</description>
+    </item>
+  </channel>
+</rss>

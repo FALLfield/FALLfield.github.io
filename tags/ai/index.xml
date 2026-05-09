@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI on FALLfield blog</title>
+    <link>https://fallfield.github.io/tags/ai/</link>
+    <description>Recent content in AI on FALLfield blog</description>
+    <image>
+      <title>FALLfield blog</title>
+      <url>https://fallfield.github.io/assets/FallField.webp</url>
+      <link>https://fallfield.github.io/assets/FallField.webp</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fallfield.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FairyField</title>
+      <link>https://fallfield.github.io/projects/fairyfield/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/projects/fairyfield/</guid>
+      <description>A desktop AI companion with a soul — 3D VRM character, 100% offline voice, long-term memory, and emotional intelligence. Built with Tauri 2.0, Rust, and Vue 3.</description>
+    </item>
+    <item>
+      <title>Building Multi-Agent Chat: When Multiple AI Minds Collaborate</title>
+      <link>https://fallfield.github.io/posts/building-multi-agent-chat/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/posts/building-multi-agent-chat/</guid>
+      <description>开发 Multi-Agent Chat 的全过程 — 从构想到实现，探索多智能体协作、AI 辅助开发、以及 pluralistic reasoning 的实践。</description>
+    </item>
+    <item>
+      <title>Multi-Agent Chat Platform</title>
+      <link>https://fallfield.github.io/projects/multi-agent-chat/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/projects/multi-agent-chat/</guid>
+      <description>A cross-platform Flutter application enabling collaborative AI discussions with multiple agent personas, real-time sync, and multi-provider LLM integration.</description>
+    </item>
+  </channel>
+</rss>

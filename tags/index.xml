@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on FALLfield blog</title>
+    <link>https://fallfield.github.io/tags/</link>
+    <description>Recent content in Tags on FALLfield blog</description>
+    <image>
+      <title>FALLfield blog</title>
+      <url>https://fallfield.github.io/assets/FallField.webp</url>
+      <link>https://fallfield.github.io/assets/FallField.webp</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fallfield.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>https://fallfield.github.io/tags/ai/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Desktop</title>
+      <link>https://fallfield.github.io/tags/desktop/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/desktop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rust</title>
+      <link>https://fallfield.github.io/tags/rust/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/rust/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tauri</title>
+      <link>https://fallfield.github.io/tags/tauri/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/tauri/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Voice</title>
+      <link>https://fallfield.github.io/tags/voice/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/voice/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>VRM</title>
+      <link>https://fallfield.github.io/tags/vrm/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/vrm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vue</title>
+      <link>https://fallfield.github.io/tags/vue/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/vue/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Blog</title>
+      <link>https://fallfield.github.io/tags/blog/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/blog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dart</title>
+      <link>https://fallfield.github.io/tags/dart/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/dart/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Development</title>
+      <link>https://fallfield.github.io/tags/development/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Firebase</title>
+      <link>https://fallfield.github.io/tags/firebase/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/firebase/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Flutter</title>
+      <link>https://fallfield.github.io/tags/flutter/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/flutter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hugo</title>
+      <link>https://fallfield.github.io/tags/hugo/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>LLM</title>
+      <link>https://fallfield.github.io/tags/llm/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/llm/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Multi-Agent</title>
+      <link>https://fallfield.github.io/tags/multi-agent/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/multi-agent/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>https://fallfield.github.io/tags/web/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>First</title>
+      <link>https://fallfield.github.io/tags/first/</link>
+      <pubDate>Mon, 15 Sep 2025 11:30:03 +0000</pubDate>
+      <guid>https://fallfield.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

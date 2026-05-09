@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rust on FALLfield blog</title>
+    <link>https://fallfield.github.io/tags/rust/</link>
+    <description>Recent content in Rust on FALLfield blog</description>
+    <image>
+      <title>FALLfield blog</title>
+      <url>https://fallfield.github.io/assets/FallField.webp</url>
+      <link>https://fallfield.github.io/assets/FallField.webp</link>
+    </image>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://fallfield.github.io/tags/rust/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FairyField</title>
+      <link>https://fallfield.github.io/projects/fairyfield/</link>
+      <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/projects/fairyfield/</guid>
+      <description>A desktop AI companion with a soul — 3D VRM character, 100% offline voice, long-term memory, and emotional intelligence. Built with Tauri 2.0, Rust, and Vue 3.</description>
+    </item>
+  </channel>
+</rss>
