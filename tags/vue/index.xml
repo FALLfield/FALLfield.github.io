@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vue on FALLfield blog</title>
     <link>https://fallfield.github.io/tags/vue/</link>
     <description>Recent content in Vue on FALLfield blog</description>
-    <image>
-      <title>FALLfield blog</title>
-      <url>https://fallfield.github.io/FallField.webp</url>
-      <link>https://fallfield.github.io/FallField.webp</link>
-    </image>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
     <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fallfield.github.io/tags/vue/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,7 +13,7 @@
       <link>https://fallfield.github.io/projects/fairyfield/</link>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <guid>https://fallfield.github.io/projects/fairyfield/</guid>
-      <description>A desktop AI companion with a soul — 3D VRM character, 100% offline voice, long-term memory, and emotional intelligence. Built with Tauri 2.0, Rust, and Vue 3.</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;FairyField is a &lt;strong&gt;desktop AI companion&lt;/strong&gt; that lives on your desktop as a transparent overlay. Unlike typical AI tools, she&amp;rsquo;s designed to be a companion — a 3D character with emotions, voice, and long-term memory who remembers your conversations from yesterday.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;有灵魂的桌面 AI 伴侣 — 悬浮在桌面上，会笑、会哭、会生气。记得你昨天的烦恼，会用真实的声音跟你聊天。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

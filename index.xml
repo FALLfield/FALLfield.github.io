@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FALLfield blog</title>
     <link>https://fallfield.github.io/</link>
     <description>Recent content on FALLfield blog</description>
-    <image>
-      <title>FALLfield blog</title>
-      <url>https://fallfield.github.io/FallField.webp</url>
-      <link>https://fallfield.github.io/FallField.webp</link>
-    </image>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
     <lastBuildDate>Sat, 09 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fallfield.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,42 +13,56 @@
       <link>https://fallfield.github.io/projects/fairyfield/</link>
       <pubDate>Sat, 09 May 2026 00:00:00 +0000</pubDate>
       <guid>https://fallfield.github.io/projects/fairyfield/</guid>
-      <description>A desktop AI companion with a soul — 3D VRM character, 100% offline voice, long-term memory, and emotional intelligence. Built with Tauri 2.0, Rust, and Vue 3.</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;FairyField is a &lt;strong&gt;desktop AI companion&lt;/strong&gt; that lives on your desktop as a transparent overlay. Unlike typical AI tools, she&amp;rsquo;s designed to be a companion — a 3D character with emotions, voice, and long-term memory who remembers your conversations from yesterday.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;有灵魂的桌面 AI 伴侣 — 悬浮在桌面上，会笑、会哭、会生气。记得你昨天的烦恼，会用真实的声音跟你聊天。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building Multi-Agent Chat: When Multiple AI Minds Collaborate</title>
       <link>https://fallfield.github.io/posts/building-multi-agent-chat/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://fallfield.github.io/posts/building-multi-agent-chat/</guid>
-      <description>开发 Multi-Agent Chat 的全过程 — 从构想到实现，探索多智能体协作、AI 辅助开发、以及 pluralistic reasoning 的实践。</description>
+      <description>&lt;h2 id=&#34;why-multi-agent&#34;&gt;Why Multi-Agent?&lt;/h2&gt;&#xA;&lt;p&gt;传统的 AI 对话都是一对一的 — 你问，它答。但现实中的问题往往需要多角度思考。一个技术决策，理性的分析师和创造性的探索者会给出截然不同的建议；一个创意方案，批评者和实用主义者会看到完全不同的盲点。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Multi-Agent Chat Platform</title>
       <link>https://fallfield.github.io/projects/multi-agent-chat/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://fallfield.github.io/projects/multi-agent-chat/</guid>
-      <description>A cross-platform Flutter application enabling collaborative AI discussions with multiple agent personas, real-time sync, and multi-provider LLM integration.</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Multi-Agent Chat is a cross-platform Flutter application that creates a &lt;strong&gt;collaborative AI discussion environment&lt;/strong&gt;. Instead of interacting with a single AI model, users configure multiple AI agents with distinct personalities and expertise, then watch them debate and collaborate on topics in real-time.&lt;/p&gt;&#xA;&lt;p&gt;The project explores &lt;strong&gt;pluralistic AI reasoning&lt;/strong&gt; — the idea that diverse perspectives from agents with different personas produce richer, more balanced insights than any single model could provide.&lt;/p&gt;</description>
     </item>
     <item>
       <title>This Site</title>
       <link>https://fallfield.github.io/projects/my-first-projects/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://fallfield.github.io/projects/my-first-projects/</guid>
-      <description>The personal website you&amp;#39;re looking at — built with Hugo and PaperMod theme, hosted on GitHub Pages.</description>
+      <description>&lt;h2 id=&#34;this-website&#34;&gt;This Website&lt;/h2&gt;&#xA;&lt;p&gt;是的，这个网站本身也是一个项目。&lt;/p&gt;&#xA;&lt;h2 id=&#34;tech-stack&#34;&gt;Tech Stack&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Hugo&lt;/strong&gt; — 静态站点生成器，构建速度极快&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;PaperMod&lt;/strong&gt; — 简洁优雅的 Hugo 主题&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub Pages&lt;/strong&gt; — 免费托管和自动部署&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — 内容全部用 Markdown 编写&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Profile mode 首页&lt;/li&gt;&#xA;&lt;li&gt;双语内容（中文/英文）&lt;/li&gt;&#xA;&lt;li&gt;Fuse.js 全文搜索&lt;/li&gt;&#xA;&lt;li&gt;GitHub Issues 评论入口&lt;/li&gt;&#xA;&lt;li&gt;深色/浅色主题切换&lt;/li&gt;&#xA;&lt;li&gt;响应式设计&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;source&#34;&gt;Source&lt;/h2&gt;&#xA;&lt;p&gt;See the code on &lt;a href=&#34;https://github.com/FALLfield/FallField_Hugo_source&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
       <link>https://fallfield.github.io/about/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://fallfield.github.io/about/</guid>
-      <description>About FallField — digital artist, AI explorer, creative coder</description>
+      <description>&lt;p&gt;你好，我是付垂野（Haoxuan Xie），一个对数字世界充满好奇的探索者。&lt;/p&gt;&#xA;&lt;h2 id=&#34;who-i-am&#34;&gt;Who I Am&lt;/h2&gt;&#xA;&lt;p&gt;我叫 FallField，梦想成为一名数字艺术家。目前专注于&lt;strong&gt;数字人（Digital Human）&lt;strong&gt;和&lt;/strong&gt;AI 人智交互&lt;/strong&gt;的研究与开发，正在不断学习和探索中。&lt;/p&gt;</description>
     </item>
     <item>
       <title>The problems when I was delopying Hugo</title>
       <link>https://fallfield.github.io/posts/my-1st-post/</link>
       <pubDate>Mon, 15 Sep 2025 11:30:03 +0000</pubDate>
       <guid>https://fallfield.github.io/posts/my-1st-post/</guid>
-      <description>Desc Text.</description>
+      <description>&lt;h1 id=&#34;my-journey-with-hugo-deployment&#34;&gt;My Journey with Hugo Deployment&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Hugo is a&lt;/p&gt;&#xA;&lt;h2 id=&#34;common-challenges&#34;&gt;Common Challenges&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-theme-installation&#34;&gt;1. Theme Installation&lt;/h3&gt;&#xA;&lt;p&gt;One of the first hurdles I faced was properly installing and configuring a Hugo theme. The process requires careful attention to:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Theme compatibility with your Hugo version&lt;/li&gt;&#xA;&lt;li&gt;Correct placement of theme files&lt;/li&gt;&#xA;&lt;li&gt;Proper configuration in &lt;code&gt;config.toml&lt;/code&gt; or &lt;code&gt;config.yaml&lt;/code&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-content-organization&#34;&gt;2. Content Organization&lt;/h3&gt;&#xA;&lt;p&gt;Organizing content in Hugo can be tricky, especially when dealing with:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Post front matter&lt;/li&gt;&#xA;&lt;li&gt;Image assets&lt;/li&gt;&#xA;&lt;li&gt;Custom layouts&lt;/li&gt;&#xA;&lt;li&gt;Content types&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-build-process&#34;&gt;3. Build Process&lt;/h3&gt;&#xA;&lt;p&gt;The build process itself presented several challenges:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Archive</title>
+      <link>https://fallfield.github.io/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/archives/</guid>
+      <description>archives</description>
+    </item>
+    <item>
+      <title>FallField Search</title>
+      <link>https://fallfield.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fallfield.github.io/search/</guid>
+      <description>Blog Search</description>
     </item>
   </channel>
 </rss>

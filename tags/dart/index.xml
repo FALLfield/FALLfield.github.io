@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dart on FALLfield blog</title>
     <link>https://fallfield.github.io/tags/dart/</link>
     <description>Recent content in Dart on FALLfield blog</description>
-    <image>
-      <title>FALLfield blog</title>
-      <url>https://fallfield.github.io/FallField.webp</url>
-      <link>https://fallfield.github.io/FallField.webp</link>
-    </image>
-    <generator>Hugo -- 0.152.2</generator>
-    <language>en-us</language>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
     <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://fallfield.github.io/tags/dart/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -18,7 +13,7 @@
       <link>https://fallfield.github.io/projects/multi-agent-chat/</link>
       <pubDate>Thu, 09 Apr 2026 00:00:00 +0000</pubDate>
       <guid>https://fallfield.github.io/projects/multi-agent-chat/</guid>
-      <description>A cross-platform Flutter application enabling collaborative AI discussions with multiple agent personas, real-time sync, and multi-provider LLM integration.</description>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Multi-Agent Chat is a cross-platform Flutter application that creates a &lt;strong&gt;collaborative AI discussion environment&lt;/strong&gt;. Instead of interacting with a single AI model, users configure multiple AI agents with distinct personalities and expertise, then watch them debate and collaborate on topics in real-time.&lt;/p&gt;&#xA;&lt;p&gt;The project explores &lt;strong&gt;pluralistic AI reasoning&lt;/strong&gt; — the idea that diverse perspectives from agents with different personas produce richer, more balanced insights than any single model could provide.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
